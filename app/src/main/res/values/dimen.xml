@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="margin_medium_2">15dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_x_large">25dp</dimen>
+    <dimen name="margin_xx_large">30dp</dimen>
+    <dimen name="margin_xxx_large">40dp</dimen>
+    <dimen name="margin_bottom">55dp</dimen>
+
+    <dimen name="text_size_h">50sp</dimen>
+    <dimen name="text_size_h0">30sp</dimen>
+    <dimen name="text_size_h1">22sp</dimen>
+    <dimen name="text_size_h2">20sp</dimen>
+    <dimen name="text_size_h3">18sp</dimen>
+    <dimen name="text_size_h4">16sp</dimen>
+    <dimen name="text_size_h5">14sp</dimen>
+    <dimen name="text_size_h6">12sp</dimen>
+    <dimen name="text_size_h7">10sp</dimen>
+    <dimen name="text_size_h8">02sp</dimen>
+    <dimen name="text_size_h9">01sp</dimen>
+
+
+    <dimen name="margin_size_h1">10dp</dimen>
+    <dimen name="margin_size_h2">5dp</dimen>
+    <dimen name="margin_size_h3">30dp</dimen>
+    <dimen name="margin_size_h4">35dp</dimen>
+    <dimen name="margin_size_h5">40dp</dimen>
+    <dimen name="margin_size_h6">60dp</dimen>
+
+</resources>

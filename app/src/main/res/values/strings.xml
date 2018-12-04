@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UpcomingMovieApp</string>
+
+    <string name="movie_id">movie_id</string>
+
+    <string name="heading">Heading</string>
+    <string name="release_date">Release Date</string>
+    <string name="adult_movie">(A)</string>
+    <string name="not_adult_movie">(U/A)</string>
+    <string name="overview">Overview</string>
+    <string name="popularity">Popularity</string>
+    <string name="vote_avg">Vote(Avg.)</string>
+    <string name="vote_count">Vote(Count)</string>
+    <string name="developed_by">Developed by\nPiyush Kalmegh</string>
+
+    <!-- Screen Names -->
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="information_screen">Information</string>
+
+    <!-- String for Errors -->
+    <string name="error_internet_not_connected">Please Check Internet Connection and Try Again</string>
+    <string name="error_data_not_present_at_this_moment">Data not present at this moment.\n Please try again.</string>
+
+</resources>
